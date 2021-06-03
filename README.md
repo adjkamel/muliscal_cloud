@@ -13,3 +13,17 @@ This repository contains code of the paper [Multi-scale convolutional neural net
 ### models
 
 ### results
+
+
+#### Citation
+If you use this code for your research, please cite the following paper:
+```
+@inproceedings{aouaidjia2020multi,
+  title={Multi-scale convolutional neural networks for cloud segmentation},
+  author={Aouaidjia, Kamel and Boukerch, Issam},
+  booktitle={Remote Sensing of Clouds and the Atmosphere XXV},
+  volume={11531},
+  pages={115310E},
+  year={2020},
+  organization={International Society for Optics and Photonics}
+}
