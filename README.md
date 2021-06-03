@@ -5,8 +5,10 @@ This repository contains code of the paper [Multi-scale convolutional neural net
 ### Requirements
 - Python 3
 - Tensorflow 2.0
-
 ### datasets
+
+[38-Cloud dataset](https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images)
+[SPARCS dataset]()
 
 ### models
 
