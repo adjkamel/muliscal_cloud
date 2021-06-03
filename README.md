@@ -7,8 +7,8 @@ This repository contains code of the paper [Multi-scale convolutional neural net
 - Tensorflow 2.0
 ### datasets
 
-[38-Cloud dataset](https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images)
-[SPARCS dataset]()
+- [38-Cloud dataset](https://www.kaggle.com/sorour/38cloud-cloud-segmentation-in-satellite-images)
+- [SPARCS dataset](https://www.usgs.gov/core-science-systems/nli/landsat/spatial-procedures-automated-removal-cloud-and-shadow-sparcs)
 
 ### models
 
