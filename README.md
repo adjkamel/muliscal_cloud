@@ -14,6 +14,11 @@ This repository contains code of the paper [Multi-scale convolutional neural net
 
 ### results
 
+![Capture](https://user-images.githubusercontent.com/50513215/123412101-1f860c00-d5a9-11eb-952b-ea00b632bc2f.PNG)
+
+
+![Capture1](https://user-images.githubusercontent.com/50513215/123412540-97543680-d5a9-11eb-9eb9-772d68662146.PNG)
+
 
 #### Citation
 If you use this code for your research, please cite the following paper:
