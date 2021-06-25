@@ -24,9 +24,10 @@ and normalising. Run the file l8-raw2train.py to extract the bands from the spar
 
 
 ### Models
-To train the model on 38-cloud dataset run 38-train.py it will preprocess the data and traine the model. The data must be in the folder 38-Cloud_training
-To train the model on SPARCS dataset run l8-train.py after the preprocessing using l8-raw2train.py.
+- To train the model on 38-cloud dataset run 38-train.py it will preprocess the data and traine the model. The data must be in the folder 38-Cloud_training
+- To train the model on SPARCS dataset run l8-train.py after the preprocessing using l8-raw2train.py.
 ### Results
+
 - To test the pretrained model "best_model_38.hdf5" on 38-Cloud dataset use the file 38-test.py and 38-test-eval.py
 - Segmentation results on 38-Cloud dataset are show bellow:
 ![Capture](https://user-images.githubusercontent.com/50513215/123413321-8bb53f80-d5aa-11eb-9818-959ce5031e01.PNG)
